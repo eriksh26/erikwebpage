@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 
 
@@ -13,7 +13,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <h2>📬 Contact</h2>
 
 
-If you want to contact me, you can reach me through below handles.
+If you want to contact me, you can reach me through the below handles.
 
 
 © 2022 Erik Shrestha
